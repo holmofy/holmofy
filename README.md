@@ -5,5 +5,5 @@
 -->
 
 - 🔭 I’m currently working on DarcyTech
-- 🌱 I’m currently learning Java / Shell
+- 🌱 I’m currently learning Java / Shell / Database
 - 💬 About me : https://www.hufeifei.cn/resume.html
