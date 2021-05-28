@@ -5,5 +5,5 @@
 -->
 
 - 🔭 I’m currently working on DarcyTech
-- 🌱 I’m currently learning Java / Javascript / Shell / MySQL / ClickHouse
+- 🌱 I’m currently learning Java / Javascript / Shell / MySQL / ClickHouse / ElasticSearch
 - 💬 About me : https://www.hufeifei.cn/resume.html
