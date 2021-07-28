@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working on BankSteel.
-- I have worked in the following companies:
+- 🙌 I have worked in the following companies:
   * [DarcyTech](https://www.darcytech.com/)
   * [Alibaba](https://www.alibabagroup.com/)
   * [BankSteel](https://www.banksteel.com/about/)
