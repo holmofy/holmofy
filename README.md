@@ -11,3 +11,5 @@
   * [BankSteel](https://www.banksteel.com/about/)
 - 🌱 I’m currently learning Java / Javascript / Shell / MySQL / ClickHouse / ElasticSearch / Kubernates
 - 💬 About me : https://www.hufeifei.cn/resume.html
+
+已经转行，不做程序员了
