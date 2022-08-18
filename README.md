@@ -9,5 +9,6 @@
   * [DarcyTech](https://www.darcytech.com/)
   * [Alibaba](https://www.alibabagroup.com/)
   * [BankSteel](https://www.banksteel.com/about/)
+  * [江西智慧物联研究院](https://www.isiiot.com/)
 - 🌱 I’m currently learning Java / Javascript / Shell / MySQL / ClickHouse / ElasticSearch / Kubernates
 - 💬 About me : https://www.hufeifei.cn/resume.html
