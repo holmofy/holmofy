@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=holmofy)
+
 ![Holmofy's GitHub stats](https://github-readme-stats.vercel.app/api?username=holmofy&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holmofy&layout=compact)](https://github.com/holmofy)
