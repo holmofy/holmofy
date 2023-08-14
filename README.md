@@ -3,7 +3,7 @@
 ![Holmofy's GitHub stats](https://github-readme-stats.vercel.app/api?username=holmofy&show_icons=true&theme=transparent&hide=issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holmofy&layout=compact&theme=transparent)](https://github.com/holmofy)
 
-### Bye 👋
+### Hi 👋
 
 <!--
 **holmofy/holmofy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
