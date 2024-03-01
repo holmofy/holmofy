@@ -22,4 +22,4 @@
 | **OS**                                          | ![MacOS](https://shields.io/badge/-MacOS-blue) ![Linux](https://shields.io/badge/-Linux-important) ![Windows](https://shields.io/badge/-Windows-blue) |
 | **Tools & Platform**                            | ![Docker](https://shields.io/badge/-Docker-brightgreen) ![K8S](https://shields.io/badge/-K8S-important) |
 
-Best Practice: [Next.js](https://github.com/vercel/next.js) + [NextAuth](https://github.com/nextauthjs/next-auth) + [Axum](https://github.com/tokio-rs/axum) + [Sqlx](https://github.com/launchbadge/sqlx)
+Best Practice: [Next.js](https://github.com/vercel/next.js) + [NextAuth](https://github.com/nextauthjs/next-auth) + [Axum](https://github.com/tokio-rs/axum) + [Sqlx](https://github.com/launchbadge/sqlx) + [[loco.rs](https://github.com/loco-rs/loco)]
