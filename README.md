@@ -23,3 +23,5 @@
 | **Tools & Platform**                            | ![Docker](https://shields.io/badge/-Docker-brightgreen) ![K8S](https://shields.io/badge/-K8S-important) |
 
 Best Practice: [[ant-design](https://github.com/ant-design/ant-design)|[react-bootstrap](https://github.com/react-bootstrap/react-bootstrap)] + [Next.js](https://github.com/vercel/next.js) + [NextAuth](https://github.com/nextauthjs/next-auth) + [Axum](https://github.com/tokio-rs/axum) + [Sqlx](https://github.com/launchbadge/sqlx) + PostgreSQL + [[loco.rs](https://github.com/loco-rs/loco)]
+
+awesome PostgreSQL: [pgvector](https://github.com/pgvector/pgvector)、[hydra](https://github.com/hydradatabase/hydra)
