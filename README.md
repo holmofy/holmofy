@@ -7,11 +7,11 @@
 -->
 
 🦀️ Learning rust...
+<!--  * [BankSteel](https://www.banksteel.com/about/)-->
 
 - 🙌 I have worked in the following companies:
   * [DarcyTech](https://www.darcytech.com/)
   * [Alibaba](https://www.alibabagroup.com/)
-  * [BankSteel](https://www.banksteel.com/about/)
   * [江西智慧物联研究院](https://www.isiiot.com/)
 
 | Property                                        | Data                                            |
