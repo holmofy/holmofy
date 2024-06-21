@@ -32,4 +32,9 @@ PostgreSQL +
 Redis +
 [Redpanda](https://github.com/redpanda-data/redpanda)
 
-[PostgreSQL Ecosystem](https://www.hufeifei.cn/pg-ecosystem.html): [awesome PostgreSQL](https://github.com/dhamaniasad/awesome-postgres)、[pgvector](https://github.com/pgvector/pgvector)、[hydra](https://github.com/hydradatabase/hydra)
+[PostgreSQL Ecosystem](https://www.hufeifei.cn/pg-ecosystem.html): 
+[awesome PostgreSQL](https://github.com/dhamaniasad/awesome-postgres)、
+[pgvector](https://github.com/pgvector/pgvector)、
+[hydra](https://github.com/hydradatabase/hydra)、
+[postgresML](https://github.com/postgresml/postgresml)
+
