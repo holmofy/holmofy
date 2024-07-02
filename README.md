@@ -45,5 +45,5 @@ Redis +
 [postgresML](https://github.com/postgresml/postgresml)
 
 **Monitor**
-* Real User Monitor: Session Replay + Performance Tracking + Error Recording
-* Observability: Logging + Tracing + Metrics
+* [Real User Monitoring](https://github.com/topics/real-user-monitoring): [Session Replay](https://github.com/topics/session-replay) + [Performance Tracking](https://github.com/GoogleChrome/web-vitals) + [Crash Reporting](https://github.com/topics/crash-reporting)
+* [Observability](https://github.com/topics/observability): [Logging](https://github.com/topics/logging) + [Tracing](https://github.com/topics/tracing) + [Metrics](https://github.com/topics/metrics)
