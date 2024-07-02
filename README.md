@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=holmofy)  [![](https://img.shields.io/badge/hacker-holmofyHu-blue?logo=ycombinator)](https://news.ycombinator.com/user?id=holmofyHu)
+![Views](https://komarev.com/ghpvc/?username=holmofy)  [![HackerNews](https://img.shields.io/badge/hacker-holmofyHu-blue?logo=ycombinator)](https://news.ycombinator.com/user?id=holmofyHu)
 
 ### Hi 👋
 
