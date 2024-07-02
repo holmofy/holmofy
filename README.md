@@ -22,7 +22,11 @@
 | **OS**                                          | ![MacOS](https://shields.io/badge/-MacOS-blue) ![Linux](https://shields.io/badge/-Linux-important) ![Windows](https://shields.io/badge/-Windows-blue) |
 | **Tools & Platform**                            | ![Docker](https://shields.io/badge/-Docker-brightgreen) ![K8S](https://shields.io/badge/-K8S-important) |
 
-Best Practice: [[ant-design](https://github.com/ant-design/ant-design)|[react-bootstrap](https://github.com/react-bootstrap/react-bootstrap)] +
+### Best Practice
+
+**App**
+
+[[ant-design](https://github.com/ant-design/ant-design)|[react-bootstrap](https://github.com/react-bootstrap/react-bootstrap)] +
 [Next.js](https://github.com/vercel/next.js) +
 [NextAuth](https://github.com/nextauthjs/next-auth) +
 [Axum](https://github.com/tokio-rs/axum) +
@@ -32,9 +36,14 @@ PostgreSQL +
 Redis +
 [Redpanda](https://github.com/redpanda-data/redpanda)
 
+**DB**
+
 [PostgreSQL Ecosystem](https://www.hufeifei.cn/pg-ecosystem.html): 
 [awesome PostgreSQL](https://github.com/dhamaniasad/awesome-postgres)、
 [pgvector](https://github.com/pgvector/pgvector)、
 [hydra](https://github.com/hydradatabase/hydra)、
 [postgresML](https://github.com/postgresml/postgresml)
 
+**Monitor**
+* Real User Monitor: Session Replay + Performance Tracking + Error Recording
+* Observability: Logging + Tracing + Metrics
