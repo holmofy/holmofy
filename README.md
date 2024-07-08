@@ -16,7 +16,8 @@
 
 | Property                                        | Data                                            |
 |-------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Language / IDE**                              | ![Rust](https://shields.io/badge/-Rust-important) ![Java](https://shields.io/badge/-Java-important) ![IDEA](https://shields.io/badge/-IDEA-brightgreen) ![TypeScript](https://shields.io/badge/-TypeScript-brightgreen) ![JavaScript](https://shields.io/badge/-JavaScript-blue) ![VSCode](https://shields.io/badge/-VSCode-blue)|
+| **Language**                                    | ![Rust](https://shields.io/badge/-Rust-important) ![Java](https://shields.io/badge/-Java-important)  ![TypeScript](https://shields.io/badge/-TypeScript-brightgreen) ![JavaScript](https://shields.io/badge/-JavaScript-blue)|
+| **IDE**                                         | ![IDEA](https://shields.io/badge/-IDEA-brightgreen) ![VSCode](https://shields.io/badge/-VSCode-blue) |
 | **CI / CD**                                     | ![Git](https://shields.io/badge/-Git-brightgreen) ![GitHub](https://shields.io/badge/-GitHub-important) |
 | **Databases**                                   | ![MySQL](https://shields.io/badge/-MySQL-important) ![PostgreSQL](https://shields.io/badge/-PostgreSQL-brightgreen) ![ClickHouse](https://shields.io/badge/-ClickHouse-blue) ![ElasticSearch](https://shields.io/badge/-ElasticSearch-important)|
 | **OS**                                          | ![MacOS](https://shields.io/badge/-MacOS-blue) ![Linux](https://shields.io/badge/-Linux-important) ![Windows](https://shields.io/badge/-Windows-blue) |
@@ -44,7 +45,7 @@ Redis +
 [hydra](https://github.com/hydradatabase/hydra)、
 [postgresML](https://github.com/postgresml/postgresml)
 
-**Monitor**
+**Monitoring**
 * Frontend [Real User Monitoring](https://github.com/topics/real-user-monitoring): [Session Replay](https://github.com/topics/session-replay) + [Performance Tracking](https://github.com/GoogleChrome/web-vitals) + [Crash Reporting](https://github.com/topics/crash-reporting)
 * Backend [Observability](https://github.com/topics/observability): [Logging](https://github.com/topics/logging) + [Tracing](https://github.com/topics/tracing) + [Metrics](https://github.com/topics/metrics)
 * [Bussiness Intelligence](https://github.com/topics/business-intelligence)
