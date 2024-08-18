@@ -1,7 +1,5 @@
 ![Views](https://komarev.com/ghpvc/?username=holmofy)  [![HackerNews](https://img.shields.io/badge/hacker-holmofyHu-blue?logo=ycombinator)](https://news.ycombinator.com/user?id=holmofyHu)
 
-### Hi 👋
-
 <!--
 **holmofy/holmofy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
