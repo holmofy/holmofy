@@ -28,9 +28,7 @@
 [[ant-design](https://github.com/ant-design/ant-design)|[react-bootstrap](https://github.com/react-bootstrap/react-bootstrap)] +
 [Next.js](https://github.com/vercel/next.js) +
 [NextAuth](https://github.com/nextauthjs/next-auth) +
-[Axum](https://github.com/tokio-rs/axum) +
-[Sqlx](https://github.com/launchbadge/sqlx) +
-[SeaQL](https://github.com/SeaQL) +
+[spring-rs](https://github.com/spring-rs/spring-rs) +
 PostgreSQL +
 Redis +
 [Redpanda](https://github.com/redpanda-data/redpanda)
