@@ -21,6 +21,9 @@
 | **OS**                                          | ![MacOS](https://shields.io/badge/-MacOS-blue) ![Linux](https://shields.io/badge/-Linux-important) ![Windows](https://shields.io/badge/-Windows-blue) |
 | **Tools & Platform**                            | ![Docker](https://shields.io/badge/-Docker-brightgreen) ![K8S](https://shields.io/badge/-K8S-important) |
 
+![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=holmofy&theme=codeSTACKr)
+![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=holmofy&theme=codeSTACKr)
+
 ### Best Practice
 
 **App**
