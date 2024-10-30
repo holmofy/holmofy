@@ -52,4 +52,4 @@ Redis +
 **Ops**
 * [Nginx](https://github.com/nginx/nginx) + [acme.sh](https://github.com/acmesh-official/acme.sh)
 * [K3S](https://github.com/k3s-io/k3s)
-* [K8S](https://github.com/kubernetes/kubernetes)
+* [K8S](https://github.com/kubernetes/kubernetes): [landscape](https://landscape.cncf.io/)
