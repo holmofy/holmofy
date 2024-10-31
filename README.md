@@ -42,7 +42,8 @@ Redis +
 [awesome PostgreSQL](https://github.com/dhamaniasad/awesome-postgres)、
 [pgvector](https://github.com/pgvector/pgvector)、
 [hydra](https://github.com/hydradatabase/hydra)、
-[postgresML](https://github.com/postgresml/postgresml)
+[postgresML](https://github.com/postgresml/postgresml)、
+[bytebase](https://github.com/bytebase/bytebase)
 
 **Monitoring**
 * Frontend [Real User Monitoring](https://github.com/topics/real-user-monitoring): [Session Replay](https://github.com/topics/session-replay) + [Performance Tracking](https://github.com/GoogleChrome/web-vitals) + [Crash Reporting](https://github.com/topics/crash-reporting)
