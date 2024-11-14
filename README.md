@@ -42,8 +42,7 @@ Redis +
 [awesome PostgreSQL](https://github.com/dhamaniasad/awesome-postgres)、
 [pgvector](https://github.com/pgvector/pgvector)、
 [hydra](https://github.com/hydradatabase/hydra)、
-[postgresML](https://github.com/postgresml/postgresml)、
-[bytebase](https://github.com/bytebase/bytebase)
+[postgresML](https://github.com/postgresml/postgresml)
 
 **Monitoring**
 * Frontend [Real User Monitoring](https://github.com/topics/real-user-monitoring): [Session Replay](https://github.com/topics/session-replay) + [Performance Tracking](https://github.com/GoogleChrome/web-vitals) + [Crash Reporting](https://github.com/topics/crash-reporting)
@@ -53,4 +52,5 @@ Redis +
 **Ops**
 * [Nginx](https://github.com/nginx/nginx) + [acme.sh](https://github.com/acmesh-official/acme.sh)
 * [K3S](https://github.com/k3s-io/k3s)
-* [K8S](https://github.com/kubernetes/kubernetes): [landscape](https://landscape.cncf.io/)
+* [K8S](https://github.com/kubernetes/kubernetes): [landscape](https://landscape.cncf.io/) + [KuberSphere](https://github.com/kubesphere/kubesphere)
+* [bytebase](https://github.com/bytebase/bytebase)
