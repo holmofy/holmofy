@@ -43,7 +43,8 @@ Redis +
 [pgvector](https://github.com/pgvector/pgvector)、
 [hydra](https://github.com/hydradatabase/hydra)、
 [postgresML](https://github.com/postgresml/postgresml)、
-[pg-osc](https://github.com/shayonj/pg-osc)
+[pg-osc](https://github.com/shayonj/pg-osc)、
+[pg_repack](https://github.com/reorg/pg_repack)
 
 **Monitoring**
 * Frontend [Real User Monitoring](https://github.com/topics/real-user-monitoring): [Session Replay](https://github.com/topics/session-replay) + [Performance Tracking](https://github.com/GoogleChrome/web-vitals) + [Crash Reporting](https://github.com/topics/crash-reporting)
