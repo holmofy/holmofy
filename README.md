@@ -36,6 +36,9 @@ PostgreSQL +
 Redis +
 [Redpanda](https://github.com/redpanda-data/redpanda)
 
+* [IO-Bound: tokio](https://github.com/tokio-rs/tokio)
+* [CPU-Bound: rayon](https://github.com/rayon-rs/rayon)
+
 **DB**
 
 [PostgreSQL Ecosystem](https://www.hufeifei.cn/pg-ecosystem.html): 
