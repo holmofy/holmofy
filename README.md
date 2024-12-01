@@ -55,7 +55,7 @@ Redis +
 * [Artificial Intelligence](https://github.com/topics/artificial-intelligence)([data-science](https://github.com/topics/data-science)+[data-mining](https://github.com/topics/data-mining)) + [Bussiness Intelligence](https://github.com/topics/business-intelligence)
 
 **Ops**
-* [portainer](https://github.com/portainer/portainer) + [Nginx](https://github.com/nginx/nginx) + [acme.sh](https://github.com/acmesh-official/acme.sh) + [OpenObserve](https://github.com/openobserve/openobserve)
+* [portainer](https://github.com/portainer/portainer) + [Nginx](https://github.com/nginx/nginx) + [acme.sh](https://github.com/acmesh-official/acme.sh) + [OpenObserve](https://github.com/openobserve/openobserve) + [minio](https://github.com/minio/minio) + [alist](https://github.com/AlistGo/alist)
 * [K3S](https://github.com/k3s-io/k3s)
 * [K8S](https://github.com/kubernetes/kubernetes): [landscape](https://landscape.cncf.io/) + [KuberSphere](https://github.com/kubesphere/kubesphere)
 * [bytebase](https://github.com/bytebase/bytebase)
