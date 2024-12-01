@@ -12,6 +12,9 @@
   * [Alibaba](https://www.alibabagroup.com/)
   * [江西智慧物联研究院](https://www.isiiot.com/)
 
+![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=holmofy)
+![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=holmofy)
+
 | Property                                        | Data                                            |
 |-------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Language**                                    | ![Rust](https://shields.io/badge/-Rust-important) ![Java](https://shields.io/badge/-Java-important)  ![TypeScript](https://shields.io/badge/-TypeScript-brightgreen) ![JavaScript](https://shields.io/badge/-JavaScript-blue)|
@@ -20,9 +23,6 @@
 | **Databases**                                   | ![MySQL](https://shields.io/badge/-MySQL-important) ![PostgreSQL](https://shields.io/badge/-PostgreSQL-brightgreen) ![ClickHouse](https://shields.io/badge/-ClickHouse-blue) ![ElasticSearch](https://shields.io/badge/-ElasticSearch-important)|
 | **OS**                                          | ![MacOS](https://shields.io/badge/-MacOS-blue) ![Linux](https://shields.io/badge/-Linux-important) ![Windows](https://shields.io/badge/-Windows-blue) |
 | **Tools & Platform**                            | ![Docker](https://shields.io/badge/-Docker-brightgreen) ![K8S](https://shields.io/badge/-K8S-important) |
-
-![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=holmofy)
-![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=holmofy)
 
 ### Best Practice
 
