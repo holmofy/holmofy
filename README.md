@@ -65,3 +65,4 @@ Redis +
 
 **Performance**
 * [memory](https://github.com/KDE/heaptrack)
+* [continuous-profiling](https://github.com/topics/continuous-profiling)
