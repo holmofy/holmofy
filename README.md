@@ -52,7 +52,7 @@ Redis +
 [pg_repack](https://github.com/reorg/pg_repack)
 
 **Ops**
-* [portainer](https://github.com/portainer/portainer) + [Nginx](https://github.com/nginx/nginx) + [acme.sh](https://github.com/acmesh-official/acme.sh) + [OpenObserve](https://github.com/openobserve/openobserve) + [minio](https://github.com/minio/minio) + [alist](https://github.com/AlistGo/alist)
+* [portainer](https://github.com/portainer/portainer) + [Docker Swarm](https://github.com/moby/swarmkit) + [Nginx](https://github.com/nginx/nginx) + [acme.sh](https://github.com/acmesh-official/acme.sh) + [OpenObserve](https://github.com/openobserve/openobserve) + [minio](https://github.com/minio/minio) + [alist](https://github.com/AlistGo/alist)
 * [K3S](https://github.com/k3s-io/k3s)
 * [K8S](https://github.com/kubernetes/kubernetes): [landscape](https://landscape.cncf.io/) + [KuberSphere](https://github.com/kubesphere/kubesphere)
 * [bytebase](https://github.com/bytebase/bytebase)
