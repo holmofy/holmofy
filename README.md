@@ -26,7 +26,7 @@
 
 ### Best Practice
 
-![DevOps](./assets/devops.drawio.svg)
+![DevOps Tools](./assets/devops.drawio.svg)
 
 **App**
 
