@@ -26,7 +26,7 @@
 
 ### Best Practice
 
-![DevOps Tools](./assets/devops.drawio.svg)
+![DevOps Tools](https://raw.githubusercontent.com/holmofy/holmofy/main/assets/devops.drawio.svg)
 
 **App**
 
