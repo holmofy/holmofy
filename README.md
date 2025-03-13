@@ -57,7 +57,7 @@ Redis +
 * [K3S](https://github.com/k3s-io/k3s)
 * [K8S](https://github.com/kubernetes/kubernetes): [landscape](https://landscape.cncf.io/) + [KuberSphere](https://github.com/kubesphere/kubesphere)
 * [bytebase](https://github.com/bytebase/bytebase)
-* [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+* [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) [Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)
 
 **Monitoring**
 * Frontend [Real User Monitoring](https://github.com/topics/real-user-monitoring): [Session Replay](https://github.com/topics/session-replay) + [Performance Tracking](https://github.com/GoogleChrome/web-vitals) + [Crash Reporting](https://github.com/topics/crash-reporting)
