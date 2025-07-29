@@ -55,7 +55,7 @@ Redis +
 * [portainer](https://github.com/portainer/portainer) + [Nginx](https://github.com/nginx/nginx)([awesome](https://github.com/agile6v/awesome-nginx)) + [acme.sh](https://github.com/acmesh-official/acme.sh) + [OpenObserve](https://github.com/openobserve/openobserve) + [minio](https://github.com/minio/minio)/[rustfs](https://github.com/rustfs/rustfs) + [alist](https://github.com/AlistGo/alist)/[OpenList](https://github.com/OpenListTeam/OpenList)
 * [Docker Swarm](https://github.com/moby/swarmkit) + [allinssl](https://github.com/allinssl/allinssl) + [envoy-swarm-control-plane](https://github.com/nstapelbroek/envoy-swarm-control-plane) + [swarm-cronjob](https://github.com/crazy-max/swarm-cronjob)
 * [K3S](https://github.com/k3s-io/k3s)
-* [K8S](https://github.com/kubernetes/kubernetes): [landscape](https://landscape.cncf.io/) + [KuberSphere](https://github.com/kubesphere/kubesphere)
+* [K8S](https://github.com/kubernetes/kubernetes): [landscape](https://landscape.cncf.io/) + [KuberSphere](https://github.com/kubesphere/kubesphere) + [krew](https://github.com/kubernetes-sigs/krew) + [kubectx](https://github.com/ahmetb/kubectx) + [kubevpn](https://github.com/kubenetworks/kubevpn)
 * [bytebase](https://github.com/bytebase/bytebase)
 * [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) [Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)
 
