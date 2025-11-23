@@ -48,7 +48,7 @@ Redis +
 [pg-osc](https://github.com/shayonj/pg-osc)、
 [pg_repack](https://github.com/reorg/pg_repack)
 
-* source: postgres + otel
+* source: postgres + [otel](https://github.com/open-telemetry/opentelemetry-specification)
 * storage: [RustFS](https://github.com/rustfs/rustfs) + [iceberg](https://github.com/apache/iceberg) + [pg_lake](https://github.com/Snowflake-Labs/pg_lake) + [pg_mooncake](https://github.com/Mooncake-Labs/pg_mooncake)
 * compute: [DuckDB](https://github.com/duckdb/duckdb)
 * analyze: [postgresML](https://github.com/postgresml/postgresml) + [pgvector](https://github.com/pgvector/pgvector) + [Apache/Age](https://github.com/apache/age)
