@@ -46,7 +46,8 @@ Redis +
 [PostgreSQL Ecosystem](https://www.hufeifei.cn/pg-ecosystem.html): 
 [awesome PostgreSQL](https://github.com/dhamaniasad/awesome-postgres)、
 [pg-osc](https://github.com/shayonj/pg-osc)、
-[pg_repack](https://github.com/reorg/pg_repack)
+[pg_repack](https://github.com/reorg/pg_repack)、
+[pgcat](https://github.com/postgresml/pgcat)
 
 * source: postgres + [otel](https://github.com/open-telemetry/opentelemetry-specification)
 * storage: [RustFS](https://github.com/rustfs/rustfs) + [iceberg](https://github.com/apache/iceberg) + [pg_lake](https://github.com/Snowflake-Labs/pg_lake) + [pg_mooncake](https://github.com/Mooncake-Labs/pg_mooncake)
