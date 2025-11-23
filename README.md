@@ -41,15 +41,17 @@ Redis +
 * [IO-Bound: tokio](https://github.com/tokio-rs/tokio)
 * [CPU-Bound: rayon](https://github.com/rayon-rs/rayon)
 
-**DB**
+**Data**
 
 [PostgreSQL Ecosystem](https://www.hufeifei.cn/pg-ecosystem.html): 
 [awesome PostgreSQL](https://github.com/dhamaniasad/awesome-postgres)、
-[pgvector](https://github.com/pgvector/pgvector)、
-[hydra](https://github.com/hydradatabase/hydra)、
-[postgresML](https://github.com/postgresml/postgresml)、
 [pg-osc](https://github.com/shayonj/pg-osc)、
 [pg_repack](https://github.com/reorg/pg_repack)
+
+* source: postgres + otel
+* storage: [RustFS](https://github.com/rustfs/rustfs) + [iceberg](https://github.com/apache/iceberg) + [pg_lake](https://github.com/Snowflake-Labs/pg_lake) + [pg_mooncake](https://github.com/Mooncake-Labs/pg_mooncake)
+* compute: [DuckDB](https://github.com/duckdb/duckdb)
+* analyze: [postgresML](https://github.com/postgresml/postgresml) + [pgvector](https://github.com/pgvector/pgvector) + [Apache/Age](https://github.com/apache/age)
 
 **Ops**
 * [portainer](https://github.com/portainer/portainer) + [Nginx](https://github.com/nginx/nginx)([awesome](https://github.com/agile6v/awesome-nginx)) + [acme.sh](https://github.com/acmesh-official/acme.sh) + [OpenObserve](https://github.com/openobserve/openobserve) + [minio](https://github.com/minio/minio)/[rustfs](https://github.com/rustfs/rustfs) + [alist](https://github.com/AlistGo/alist)/[OpenList](https://github.com/OpenListTeam/OpenList)
@@ -59,7 +61,7 @@ Redis +
 * [bytebase](https://github.com/bytebase/bytebase)
 * [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) [Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)
 
-Mobile: [server_box](https://github.com/lollipopkit/flutter_server_box) + [Harbour](https://github.com/rrroyal/Harbour)
+Mobile: [server_box](https://github.com/lollipopkit/flutter_server_box)
 
 **Monitoring**
 * Frontend [Real User Monitoring](https://github.com/topics/real-user-monitoring): [Session Replay](https://github.com/topics/session-replay) + [Performance Tracking](https://github.com/GoogleChrome/web-vitals) + [Crash Reporting](https://github.com/topics/crash-reporting)
