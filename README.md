@@ -10,7 +10,6 @@
 - 🙌 I have worked in the following companies:
   * [DarcyTech](https://www.darcytech.com/)
   * [Alibaba](https://www.alibabagroup.com/)
-  * [江西智慧物联研究院](https://www.isiiot.com/)
 
 ![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=holmofy)
 ![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=holmofy)
