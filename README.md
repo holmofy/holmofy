@@ -68,3 +68,6 @@ Mobile: [server_box](https://github.com/lollipopkit/flutter_server_box)
 * Frontend [Real User Monitoring](https://github.com/topics/real-user-monitoring): [Session Replay](https://github.com/topics/session-replay) + [Performance Tracking](https://github.com/GoogleChrome/web-vitals) + [Crash Reporting](https://github.com/topics/crash-reporting)
 * Backend [Observability](https://github.com/topics/observability): [Logging](https://github.com/topics/logging) + [Tracing](https://github.com/topics/tracing) + [Metrics](https://github.com/topics/metrics) + [Profiling](https://github.com/topics/profiling)([profiler](https://github.com/topics/profiler)、[memory](https://github.com/KDE/heaptrack))
 * [Artificial Intelligence](https://github.com/topics/artificial-intelligence)([data-science](https://github.com/topics/data-science)+[data-mining](https://github.com/topics/data-mining)) + [Bussiness Intelligence](https://github.com/topics/business-intelligence)
+
+**Marketing**
+* [listmonk](https://github.com/knadh/listmonk)
